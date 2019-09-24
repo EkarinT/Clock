@@ -6,6 +6,11 @@
   height: 40vmin;
 }
 
+.clock{
+  border-radius: 50%;
+  background-color: azure;
+  color: black;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
